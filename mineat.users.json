@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "6681d5ef4efd35acb4c7157a"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-30T22:02:23.104Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-06-30T22:02:23.104Z"
+  },
+  "username": "minh trí",
+  "email": "jod3h331fl8d5322.doe@example.com",
+  "password": "123123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681d70af61c699edac09841"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-06-30T22:07:06.120Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-06-30T22:07:06.120Z"
+  },
+  "username": "minh trí",
+  "email": "jod3h331fld8d5322.doe@exafmple.com",
+  "password": "123123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668220b075a5433561aea5f9"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-01T03:21:20.426Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-07-01T03:21:20.427Z"
+  },
+  "username": "minh trí",
+  "email": "jod3h331fldss8d5322.doe@exafmple.com",
+  "password": "123123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682280bba812aa8ca05d1eb"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-01T03:52:43.679Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-07-01T03:52:43.679Z"
+  },
+  "username": "minh trí",
+  "email": "aaaaaaa.doe@exafmple.com",
+  "password": "12d3123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6684e3c3d1f1f91c5b8cfe7e"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-03T05:38:11.085Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-07-03T05:38:11.085Z"
+  },
+  "username": "minh trí",
+  "email": "test1.doe@exafmple.com",
+  "password": "12d3123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66850676235ac327eb055c44"
+  },
+  "role": "user",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-07-03T08:06:14.667Z"
+  },
+  "lastUpdateAt": {
+    "$date": "2024-07-03T08:06:14.667Z"
+  },
+  "username": "minh trí",
+  "email": "a@gmail.com",
+  "password": "123123",
+  "address": "aaaaaâ",
+  "phone": "0123012123",
+  "__v": 0
+}]
